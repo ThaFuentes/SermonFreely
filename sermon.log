@@ -1,0 +1,813 @@
+2025-08-02 02:12:41,335 - ERROR - Failed to load API keys from DB: no such table: gemini_api_keys
+2025-08-02 02:12:41,335 - DEBUG - Loaded 0 Gemini API keys from DB
+2025-08-02 02:12:41,380 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-02 02:12:54,828 - DEBUG - Added API key ending in KQqU
+2025-08-02 02:12:56,614 - DEBUG - Saved 1 API keys to DB
+2025-08-02 02:12:56,615 - DEBUG - Settings saved: translation=WEB, 1 API keys
+2025-08-02 02:27:23,389 - DEBUG - Loaded JSON file
+2025-08-02 02:27:23,390 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:27:23,390 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:27:26,743 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:27:26,785 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:27:26,785 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:27:31,982 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 02:27:41,819 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:27:41,819 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:27:41,819 - ERROR - Error initializing API keys: name 'QComboBox' is not defined
+2025-08-02 02:30:44,597 - DEBUG - Loaded JSON file
+2025-08-02 02:30:44,597 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:30:44,598 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:30:48,284 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:30:48,285 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:30:48,289 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:39:29,264 - DEBUG - Loaded JSON file
+2025-08-02 02:39:29,265 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:39:29,265 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:39:33,410 - DEBUG - Loaded 1 Gemini API keys from DB
+2025-08-02 02:39:33,444 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-02 02:39:37,706 - DEBUG - Removed API key ending in KQqU
+2025-08-02 02:39:39,585 - DEBUG - Saved 0 API keys to DB
+2025-08-02 02:39:39,585 - DEBUG - Loaded JSON file
+2025-08-02 02:39:39,586 - DEBUG - Saved JSON file
+2025-08-02 02:39:39,586 - DEBUG - Sermon saved to JSON
+2025-08-02 02:39:39,587 - DEBUG - Settings saved: translation=WEB, 0 API keys
+2025-08-02 02:39:51,317 - DEBUG - Loaded 0 API keys from sermon_secrets.db
+2025-08-02 02:39:56,227 - DEBUG - Successfully loaded 0 API keys from gemini_api_keys table
+2025-08-02 02:39:56,227 - DEBUG - Loaded 0 API keys from sermon_secrets.db
+2025-08-02 02:39:56,229 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:41:15,533 - DEBUG - Loaded JSON file
+2025-08-02 02:41:15,534 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:41:15,534 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:41:18,602 - DEBUG - Successfully loaded 0 API keys from gemini_api_keys table
+2025-08-02 02:41:18,602 - DEBUG - Loaded 0 API keys from sermon_secrets.db
+2025-08-02 02:41:18,604 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:41:53,041 - DEBUG - Loaded JSON file
+2025-08-02 02:41:53,042 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:41:53,042 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:41:57,109 - DEBUG - Loaded 0 API keys from sermon_secrets.db
+2025-08-02 02:42:00,026 - DEBUG - Loaded 0 Gemini API keys from DB
+2025-08-02 02:42:00,059 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-02 02:42:05,911 - DEBUG - Added API key ending in KQqU
+2025-08-02 02:42:07,192 - DEBUG - Saved 1 API keys to DB
+2025-08-02 02:42:07,193 - DEBUG - Loaded JSON file
+2025-08-02 02:42:07,194 - DEBUG - Saved JSON file
+2025-08-02 02:42:07,194 - DEBUG - Sermon saved to JSON
+2025-08-02 02:42:07,194 - DEBUG - Settings saved: translation=WEB, 1 API keys
+2025-08-02 02:43:00,130 - DEBUG - Loaded JSON file
+2025-08-02 02:43:00,131 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:43:00,131 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:43:03,700 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:43:03,743 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:43:03,743 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:43:03,747 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:43:11,989 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 02:45:37,517 - DEBUG - Loaded JSON file
+2025-08-02 02:45:37,517 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:45:37,519 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:45:40,645 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:45:40,686 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:45:40,686 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:45:40,690 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:45:58,636 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 02:49:50,735 - DEBUG - Loaded JSON file
+2025-08-02 02:49:50,735 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:49:50,735 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:49:53,668 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:49:53,712 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:49:53,712 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:49:53,716 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:50:02,904 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 02:51:54,423 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:51:54,423 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:51:54,425 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:53:30,558 - DEBUG - Loaded JSON file
+2025-08-02 02:53:30,558 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:53:30,558 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:53:33,306 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:53:33,306 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:53:33,310 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:59:37,489 - DEBUG - Loaded JSON file
+2025-08-02 02:59:37,489 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 02:59:37,489 - DEBUG - Loaded sermon from JSON
+2025-08-02 02:59:47,874 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:59:47,917 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 02:59:47,917 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 02:59:47,920 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 02:59:56,596 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 03:03:43,597 - DEBUG - Loaded JSON file
+2025-08-02 03:03:43,597 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:03:43,597 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:03:46,129 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:03:46,173 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:03:46,173 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:03:46,176 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:05:45,023 - DEBUG - Loaded JSON file
+2025-08-02 03:05:45,023 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:05:45,023 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:05:47,145 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:05:47,186 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:05:47,187 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:05:47,189 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:09:50,357 - DEBUG - Loaded JSON file
+2025-08-02 03:09:50,357 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:09:50,357 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:10:01,481 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:10:01,525 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:10:01,526 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:10:01,529 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:10:06,903 - DEBUG - Appended message for User with length 13
+2025-08-02 03:10:06,904 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 03:10:11,521 - DEBUG - Appended message for Gemini with length 2217
+2025-08-02 03:18:00,773 - DEBUG - Loaded JSON file
+2025-08-02 03:18:00,773 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:18:00,773 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:18:08,679 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:18:08,722 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:18:08,722 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:18:08,725 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:18:13,519 - DEBUG - Appended message for User with length 13
+2025-08-02 03:18:13,519 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 03:18:19,499 - DEBUG - Appended message for Gemini with length 2999
+2025-08-02 03:18:33,277 - DEBUG - Appended message for User with length 7
+2025-08-02 03:18:38,316 - DEBUG - Appended message for Gemini with length 3177
+2025-08-02 03:23:00,821 - DEBUG - Loaded JSON file
+2025-08-02 03:23:00,823 - DEBUG - Saved JSON file
+2025-08-02 03:23:00,824 - DEBUG - Sermon saved to JSON
+2025-08-02 03:28:00,825 - DEBUG - Loaded JSON file
+2025-08-02 03:28:00,828 - DEBUG - Saved JSON file
+2025-08-02 03:28:00,828 - DEBUG - Sermon saved to JSON
+2025-08-02 03:28:51,803 - DEBUG - Loaded JSON file
+2025-08-02 03:28:51,803 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:28:51,803 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:28:54,829 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:28:54,871 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:28:54,871 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:28:54,874 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:28:58,537 - DEBUG - Appended message for User with length 2 and color #00bfff
+2025-08-02 03:28:58,537 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-02 03:28:59,180 - DEBUG - Appended message for Gemini with length 53 and color #98FB98
+2025-08-02 03:29:08,810 - DEBUG - Appended message for User with length 30 and color #00bfff
+2025-08-02 03:29:10,418 - DEBUG - Appended message for Gemini with length 781 and color #3CB371
+2025-08-02 03:29:38,580 - DEBUG - Loaded JSON file
+2025-08-02 03:29:38,580 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 03:29:38,581 - DEBUG - Loaded sermon from JSON
+2025-08-02 03:29:41,817 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-02 03:29:41,818 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-02 03:29:41,821 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-02 03:29:51,765 - DEBUG - Appended research for Research with length 2494 and color #98FB98
+2025-08-02 03:29:56,086 - DEBUG - Appended research for Research with length 2582 and color #3CB371
+2025-08-02 03:30:06,634 - DEBUG - Appended research for Research with length 231 and color #20B2AA
+2025-08-02 03:30:08,032 - DEBUG - Appended research for Research with length 202 and color #66CDAA
+2025-08-02 03:34:38,640 - DEBUG - Loaded JSON file
+2025-08-02 03:34:38,642 - DEBUG - Saved JSON file
+2025-08-02 03:34:38,643 - DEBUG - Sermon saved to JSON
+2025-08-02 05:10:56,273 - DEBUG - Loaded JSON file
+2025-08-02 05:10:56,274 - DEBUG - Created default sermon with new Fernet key
+2025-08-02 05:10:56,274 - DEBUG - Loaded sermon from JSON
+2025-08-03 20:00:42,349 - DEBUG - Loaded JSON file
+2025-08-03 20:00:42,351 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 20:00:42,351 - DEBUG - Loaded sermon from JSON
+2025-08-03 20:00:53,278 - DEBUG - Loaded JSON file
+2025-08-03 20:00:53,278 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 20:00:53,278 - DEBUG - Loaded sermon from JSON
+2025-08-03 20:01:04,555 - DEBUG - Loaded 1 Gemini API keys from DB
+2025-08-03 20:01:04,596 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-03 20:01:31,243 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 20:01:31,243 - DEBUG - Deleted sermon_data.json
+2025-08-03 20:01:40,952 - DEBUG - Loaded 1 Gemini API keys from DB
+2025-08-03 20:01:40,952 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-03 20:01:49,694 - ERROR - Failed to show search history: no such table: search_history
+2025-08-03 20:02:00,769 - ERROR - Failed to save search history: no such table: search_history
+2025-08-03 20:02:00,769 - DEBUG - Performing search for: john2, translation: WEB
+2025-08-03 20:02:00,771 - DEBUG - Input not a valid reference: Invalid reference. Use e.g., John 3 or John 3:16, attempting fuzzy match
+2025-08-03 20:02:00,771 - DEBUG - Sending keyword search request: https://bolls.life/v2/find/WEB?search=john2&match_case=false&match_whole=false&limit=50
+2025-08-03 20:02:00,776 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 20:02:04,507 - DEBUG - https://bolls.life:443 "GET /v2/find/WEB?search=john2&match_case=false&match_whole=false&limit=50 HTTP/1.1" 200 10563
+2025-08-03 20:02:04,512 - DEBUG - Keyword search returned 50 results
+2025-08-03 21:03:57,853 - DEBUG - Saved JSON file
+2025-08-03 21:03:58,698 - DEBUG - Sermon saved to JSON
+2025-08-03 21:08:57,503 - DEBUG - Loaded JSON file
+2025-08-03 21:08:57,504 - DEBUG - Saved JSON file
+2025-08-03 21:08:57,505 - DEBUG - Sermon saved to JSON
+2025-08-03 21:13:57,530 - DEBUG - Loaded JSON file
+2025-08-03 21:13:57,531 - DEBUG - Saved JSON file
+2025-08-03 21:13:57,531 - DEBUG - Sermon saved to JSON
+2025-08-03 21:18:57,542 - DEBUG - Loaded JSON file
+2025-08-03 21:18:57,543 - DEBUG - Saved JSON file
+2025-08-03 21:18:57,544 - DEBUG - Sermon saved to JSON
+2025-08-03 21:23:57,541 - DEBUG - Loaded JSON file
+2025-08-03 21:23:57,542 - DEBUG - Saved JSON file
+2025-08-03 21:23:57,542 - DEBUG - Sermon saved to JSON
+2025-08-03 21:27:16,799 - ERROR - Failed to show search history: no such table: search_history
+2025-08-03 21:27:19,066 - DEBUG - Displaying verse: Mark 6:25
+2025-08-03 21:27:20,103 - DEBUG - Displaying verse: Mark 9:2
+2025-08-03 21:27:20,959 - DEBUG - Displaying verse: Mark 6:25
+2025-08-03 21:27:21,726 - DEBUG - Displaying verse: Mark 6:24
+2025-08-03 21:27:22,822 - DEBUG - Displaying verse: Mark 10:35
+2025-08-03 21:27:25,692 - DEBUG - Copied to verses_notes: Mark 10:35
+2025-08-03 21:27:26,487 - ERROR - Failed to show search history: no such table: search_history
+2025-08-03 21:42:22,310 - DEBUG - Loaded JSON file
+2025-08-03 21:42:22,311 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:42:22,311 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:42:55,683 - DEBUG - Loaded JSON file
+2025-08-03 21:42:55,683 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:42:55,683 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:42:59,286 - DEBUG - Initialized search_history table in DB
+2025-08-03 21:43:06,545 - DEBUG - Saved search query to history: John 3
+2025-08-03 21:43:06,545 - DEBUG - Performing search for: John 3, translation: WEB
+2025-08-03 21:43:06,546 - DEBUG - Parsed reference: John 3 (book_id: 43, chapter: 3, verse: None)
+2025-08-03 21:43:06,546 - DEBUG - Fetching verse text for John 3 with translation WEB
+2025-08-03 21:43:06,547 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/43/3/
+2025-08-03 21:43:06,551 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:43:08,096 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/43/3/ HTTP/1.1" 200 5515
+2025-08-03 21:43:08,098 - DEBUG - Successfully fetched text: 1. Now there was a man of the Pharisees named Nico...
+2025-08-03 21:43:08,122 - DEBUG - Successfully fetched and displayed: John 3
+2025-08-03 21:46:33,585 - DEBUG - Loaded JSON file
+2025-08-03 21:46:33,585 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:46:33,586 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:46:36,559 - DEBUG - Initialized search_history table in DB
+2025-08-03 21:46:44,520 - DEBUG - Saved search query to history: john 3:16
+2025-08-03 21:46:44,520 - DEBUG - Performing search for: john 3:16, translation: WEB
+2025-08-03 21:46:44,521 - DEBUG - Parsed reference: John 3:16 (book_id: 43, chapter: 3, verse: 16)
+2025-08-03 21:46:44,521 - DEBUG - Fetching verse text for John 3:16 with translation WEB
+2025-08-03 21:46:44,521 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/43/3/
+2025-08-03 21:46:44,526 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:46:45,972 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/43/3/ HTTP/1.1" 200 5515
+2025-08-03 21:46:45,973 - DEBUG - Successfully fetched text: For God so loved the world, that he gave his one a...
+2025-08-03 21:46:45,979 - DEBUG - Successfully fetched and displayed: John 3:16
+2025-08-03 21:46:46,668 - ERROR - Failed to show search history: name 'Qt' is not defined
+2025-08-03 21:46:50,179 - ERROR - Failed to show search history: name 'Qt' is not defined
+2025-08-03 21:48:44,665 - DEBUG - Loaded JSON file
+2025-08-03 21:48:44,665 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:48:44,665 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:48:47,671 - DEBUG - Initialized search_history table in DB
+2025-08-03 21:48:53,330 - DEBUG - Saved search query to history: John 3:15
+2025-08-03 21:48:53,330 - DEBUG - Performing search for: John 3:15, translation: WEB
+2025-08-03 21:48:53,331 - DEBUG - Parsed reference: John 3:15 (book_id: 43, chapter: 3, verse: 15)
+2025-08-03 21:48:53,331 - DEBUG - Fetching verse text for John 3:15 with translation WEB
+2025-08-03 21:48:53,331 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/43/3/
+2025-08-03 21:48:53,337 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:48:54,772 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/43/3/ HTTP/1.1" 200 5515
+2025-08-03 21:48:54,774 - DEBUG - Successfully fetched text: that whoever believes in him should not perish, bu...
+2025-08-03 21:48:54,778 - DEBUG - Successfully fetched and displayed: John 3:15
+2025-08-03 21:48:55,994 - ERROR - Failed to show search history: type object 'Qt' has no attribute 'UserRole'
+2025-08-03 21:52:10,725 - DEBUG - Loaded JSON file
+2025-08-03 21:52:10,726 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:52:10,726 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:52:13,564 - DEBUG - Opening BibleReadDialog
+2025-08-03 21:52:13,603 - DEBUG - Setting up initial book and chapter
+2025-08-03 21:52:13,604 - DEBUG - Updating chapter combo
+2025-08-03 21:52:13,607 - DEBUG - Loading chapter
+2025-08-03 21:52:13,607 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/1/
+2025-08-03 21:52:13,611 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:52:15,073 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/1/ HTTP/1.1" 200 5301
+2025-08-03 21:52:18,749 - DEBUG - Initialized search_history table in DB
+2025-08-03 21:52:25,046 - DEBUG - Saved search query to history: John 3
+2025-08-03 21:52:25,046 - DEBUG - Performing search for: John 3, translation: WEB
+2025-08-03 21:52:25,047 - DEBUG - Parsed reference: John 3 (book_id: 43, chapter: 3, verse: None)
+2025-08-03 21:52:25,047 - DEBUG - Fetching verse text for John 3 with translation WEB
+2025-08-03 21:52:25,047 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/43/3/
+2025-08-03 21:52:25,049 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:52:26,465 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/43/3/ HTTP/1.1" 200 5515
+2025-08-03 21:52:26,466 - DEBUG - Successfully fetched text: 1. Now there was a man of the Pharisees named Nico...
+2025-08-03 21:52:26,482 - DEBUG - Successfully fetched and displayed: John 3
+2025-08-03 21:52:26,482 - DEBUG - Reused search query from history: John 3
+2025-08-03 21:52:39,420 - DEBUG - Opening BibleReadDialog
+2025-08-03 21:52:39,427 - DEBUG - Setting up initial book and chapter
+2025-08-03 21:52:39,428 - DEBUG - Updating chapter combo
+2025-08-03 21:52:39,429 - DEBUG - Loading chapter
+2025-08-03 21:52:39,429 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/1/
+2025-08-03 21:52:39,431 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 21:52:40,849 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/1/ HTTP/1.1" 200 5301
+2025-08-03 21:52:57,138 - DEBUG - Loaded JSON file
+2025-08-03 21:52:57,138 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 21:52:57,138 - DEBUG - Loaded sermon from JSON
+2025-08-03 21:53:00,149 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 21:53:00,192 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-03 21:53:00,192 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 21:53:00,195 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-03 21:53:08,221 - DEBUG - Appended message for User with length 36 and color #00bfff
+2025-08-03 21:53:08,221 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-03 21:53:14,323 - DEBUG - Appended message for Gemini with length 356 and color #98FB98
+2025-08-03 21:53:43,333 - DEBUG - Appended message for User with length 62 and color #00bfff
+2025-08-03 21:53:44,142 - DEBUG - Appended message for Gemini with length 430 and color #3CB371
+2025-08-03 21:54:09,347 - DEBUG - Appended message for User with length 63 and color #00bfff
+2025-08-03 21:54:12,051 - DEBUG - Appended message for Gemini with length 1422 and color #20B2AA
+2025-08-03 21:56:00,079 - DEBUG - Appended message for User with length 42 and color #00bfff
+2025-08-03 21:56:01,178 - DEBUG - Appended message for Gemini with length 570 and color #66CDAA
+2025-08-03 21:56:21,933 - DEBUG - Appended message for User with length 46 and color #00bfff
+2025-08-03 21:56:24,707 - DEBUG - Appended message for Gemini with length 1590 and color #40E0D0
+2025-08-03 21:57:47,902 - DEBUG - Appended message for User with length 192 and color #00bfff
+2025-08-03 21:57:48,951 - DEBUG - Appended message for Gemini with length 548 and color #00CED1
+2025-08-03 21:57:57,210 - DEBUG - Loaded JSON file
+2025-08-03 21:57:57,212 - DEBUG - Saved JSON file
+2025-08-03 21:57:57,212 - DEBUG - Sermon saved to JSON
+2025-08-03 21:58:24,487 - DEBUG - Appended message for User with length 88 and color #00bfff
+2025-08-03 21:58:25,772 - DEBUG - Appended message for Gemini with length 569 and color #48D1CC
+2025-08-03 21:58:50,768 - DEBUG - Appended message for User with length 52 and color #00bfff
+2025-08-03 21:58:51,721 - DEBUG - Appended message for Gemini with length 499 and color #2E8B57
+2025-08-03 21:59:27,814 - DEBUG - Appended message for User with length 88 and color #00bfff
+2025-08-03 21:59:28,916 - DEBUG - Appended message for Gemini with length 479 and color #98FB98
+2025-08-03 21:59:59,753 - DEBUG - Appended message for User with length 77 and color #00bfff
+2025-08-03 22:00:00,857 - DEBUG - Appended message for Gemini with length 586 and color #3CB371
+2025-08-03 22:02:08,182 - DEBUG - Appended message for User with length 411 and color #00bfff
+2025-08-03 22:02:09,427 - DEBUG - Appended message for Gemini with length 582 and color #20B2AA
+2025-08-03 22:02:42,936 - DEBUG - Appended message for User with length 74 and color #00bfff
+2025-08-03 22:02:44,205 - DEBUG - Appended message for Gemini with length 571 and color #66CDAA
+2025-08-03 22:02:57,209 - DEBUG - Loaded JSON file
+2025-08-03 22:02:57,210 - DEBUG - Saved JSON file
+2025-08-03 22:02:57,210 - DEBUG - Sermon saved to JSON
+2025-08-03 22:02:59,185 - DEBUG - Appended message for User with length 57 and color #00bfff
+2025-08-03 22:03:05,316 - DEBUG - Appended message for Gemini with length 506 and color #40E0D0
+2025-08-03 22:03:36,417 - DEBUG - Appended message for User with length 105 and color #00bfff
+2025-08-03 22:03:37,860 - DEBUG - Appended message for Gemini with length 698 and color #00CED1
+2025-08-03 22:04:02,228 - DEBUG - Appended message for User with length 45 and color #00bfff
+2025-08-03 22:04:03,543 - DEBUG - Appended message for Gemini with length 636 and color #48D1CC
+2025-08-03 22:04:44,008 - DEBUG - Appended message for User with length 147 and color #00bfff
+2025-08-03 22:04:45,216 - DEBUG - Appended message for Gemini with length 554 and color #2E8B57
+2025-08-03 22:04:57,198 - DEBUG - Appended message for User with length 41 and color #00bfff
+2025-08-03 22:04:58,284 - DEBUG - Appended message for Gemini with length 515 and color #98FB98
+2025-08-03 22:05:44,203 - DEBUG - Appended message for User with length 132 and color #00bfff
+2025-08-03 22:05:45,500 - DEBUG - Appended message for Gemini with length 675 and color #3CB371
+2025-08-03 22:06:09,868 - DEBUG - Appended message for User with length 74 and color #00bfff
+2025-08-03 22:06:11,245 - DEBUG - Appended message for Gemini with length 684 and color #20B2AA
+2025-08-03 22:06:29,894 - DEBUG - Appended message for User with length 16 and color #00bfff
+2025-08-03 22:06:31,531 - DEBUG - Appended message for Gemini with length 833 and color #66CDAA
+2025-08-03 22:07:04,807 - DEBUG - Appended message for User with length 120 and color #00bfff
+2025-08-03 22:07:06,143 - DEBUG - Appended message for Gemini with length 684 and color #40E0D0
+2025-08-03 22:07:51,876 - DEBUG - Appended message for User with length 61 and color #00bfff
+2025-08-03 22:07:53,732 - DEBUG - Appended message for Gemini with length 456 and color #00CED1
+2025-08-03 22:07:56,613 - DEBUG - Appended message for User with length 15743 and color #00bfff
+2025-08-03 22:07:59,302 - DEBUG - Appended message for Gemini with length 1464 and color #48D1CC
+2025-08-03 22:07:59,307 - DEBUG - Loaded JSON file
+2025-08-03 22:07:59,308 - DEBUG - Saved JSON file
+2025-08-03 22:07:59,308 - DEBUG - Sermon saved to JSON
+2025-08-03 22:08:32,061 - DEBUG - Appended message for User with length 94 and color #00bfff
+2025-08-03 22:08:33,959 - DEBUG - Appended message for Gemini with length 760 and color #2E8B57
+2025-08-03 22:08:55,523 - DEBUG - Appended message for User with length 73 and color #00bfff
+2025-08-03 22:08:57,369 - DEBUG - Appended message for Gemini with length 725 and color #98FB98
+2025-08-03 22:09:18,881 - DEBUG - Appended message for User with length 66 and color #00bfff
+2025-08-03 22:09:20,379 - DEBUG - Appended message for Gemini with length 643 and color #3CB371
+2025-08-03 22:09:34,056 - DEBUG - Appended message for User with length 45 and color #00bfff
+2025-08-03 22:09:35,932 - DEBUG - Appended message for Gemini with length 778 and color #20B2AA
+2025-08-03 22:09:45,231 - DEBUG - Appended message for User with length 36 and color #00bfff
+2025-08-03 22:09:46,842 - DEBUG - Appended message for Gemini with length 635 and color #66CDAA
+2025-08-03 22:10:39,728 - DEBUG - Appended message for User with length 223 and color #00bfff
+2025-08-03 22:10:41,869 - DEBUG - Appended message for Gemini with length 845 and color #40E0D0
+2025-08-03 22:11:06,546 - DEBUG - Appended message for User with length 77 and color #00bfff
+2025-08-03 22:11:08,136 - DEBUG - Appended message for Gemini with length 477 and color #00CED1
+2025-08-03 22:12:00,869 - DEBUG - Loaded JSON file
+2025-08-03 22:12:00,870 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 22:12:00,870 - DEBUG - Loaded sermon from JSON
+2025-08-03 22:12:03,355 - DEBUG - Initialized search_history table in DB
+2025-08-03 22:12:06,632 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:12:06,673 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-03 22:12:06,674 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:12:06,677 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-03 22:12:10,854 - DEBUG - Appended message for User with length 17 and color #00bfff
+2025-08-03 22:12:10,854 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-03 22:12:11,777 - DEBUG - Appended message for Gemini with length 318 and color #98FB98
+2025-08-03 22:12:29,327 - DEBUG - Appended message for User with length 28 and color #00bfff
+2025-08-03 22:12:30,245 - DEBUG - Appended message for Gemini with length 476 and color #3CB371
+2025-08-03 22:12:50,533 - DEBUG - Appended message for User with length 63 and color #00bfff
+2025-08-03 22:12:52,273 - DEBUG - Appended message for Gemini with length 520 and color #20B2AA
+2025-08-03 22:13:29,908 - DEBUG - Appended message for User with length 146 and color #00bfff
+2025-08-03 22:13:31,121 - DEBUG - Appended message for Gemini with length 703 and color #66CDAA
+2025-08-03 22:14:20,506 - DEBUG - Appended message for User with length 197 and color #00bfff
+2025-08-03 22:14:22,050 - DEBUG - Appended message for Gemini with length 768 and color #40E0D0
+2025-08-03 22:14:39,948 - DEBUG - Appended message for User with length 48 and color #00bfff
+2025-08-03 22:14:41,262 - DEBUG - Appended message for Gemini with length 493 and color #00CED1
+2025-08-03 22:15:15,119 - DEBUG - Appended message for User with length 62 and color #00bfff
+2025-08-03 22:15:17,735 - DEBUG - Appended message for Gemini with length 1705 and color #48D1CC
+2025-08-03 22:15:54,704 - DEBUG - Appended message for User with length 119 and color #00bfff
+2025-08-03 22:15:55,820 - DEBUG - Appended message for Gemini with length 508 and color #2E8B57
+2025-08-03 22:17:00,911 - DEBUG - Loaded JSON file
+2025-08-03 22:17:00,914 - DEBUG - Saved JSON file
+2025-08-03 22:17:00,914 - DEBUG - Sermon saved to JSON
+2025-08-03 22:18:18,184 - DEBUG - Appended message for User with length 152 and color #00bfff
+2025-08-03 22:18:19,456 - DEBUG - Appended message for Gemini with length 735 and color #98FB98
+2025-08-03 22:19:02,954 - DEBUG - Appended message for User with length 95 and color #00bfff
+2025-08-03 22:19:03,834 - DEBUG - Appended message for Gemini with length 371 and color #3CB371
+2025-08-03 22:20:12,196 - DEBUG - Appended message for User with length 193 and color #00bfff
+2025-08-03 22:20:14,832 - DEBUG - Appended message for Gemini with length 1671 and color #20B2AA
+2025-08-03 22:20:36,848 - DEBUG - Appended message for User with length 24 and color #00bfff
+2025-08-03 22:20:38,210 - DEBUG - Appended message for Gemini with length 702 and color #66CDAA
+2025-08-03 22:21:45,304 - DEBUG - Loaded JSON file
+2025-08-03 22:21:45,304 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 22:21:45,304 - DEBUG - Loaded sermon from JSON
+2025-08-03 22:21:47,616 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:21:47,657 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-03 22:21:47,658 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:21:47,661 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-03 22:22:11,198 - DEBUG - Appended message for User with length 104 and color #00bfff
+2025-08-03 22:22:11,198 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-03 22:22:14,922 - DEBUG - Appended message for Gemini with length 2296 and color #98FB98
+2025-08-03 22:23:14,962 - DEBUG - Appended message for User with length 103 and color #00bfff
+2025-08-03 22:23:19,481 - DEBUG - Appended message for Gemini with length 3101 and color #3CB371
+2025-08-03 22:23:57,500 - DEBUG - Appended message for User with length 59 and color #00bfff
+2025-08-03 22:24:00,222 - DEBUG - Appended message for Gemini with length 1923 and color #20B2AA
+2025-08-03 22:26:45,349 - DEBUG - Loaded JSON file
+2025-08-03 22:26:45,351 - DEBUG - Saved JSON file
+2025-08-03 22:26:45,352 - DEBUG - Sermon saved to JSON
+2025-08-03 22:26:48,815 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:26:48,824 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-03 22:26:48,824 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:26:48,826 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-03 22:26:55,361 - DEBUG - Appended message for User with length 23 and color #00bfff
+2025-08-03 22:26:55,362 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-03 22:26:56,472 - DEBUG - Appended message for Gemini with length 384 and color #98FB98
+2025-08-03 22:27:17,006 - DEBUG - Appended message for User with length 36 and color #00bfff
+2025-08-03 22:27:19,671 - DEBUG - Appended message for Gemini with length 1532 and color #3CB371
+2025-08-03 22:27:38,942 - DEBUG - Opening BibleReadDialog
+2025-08-03 22:27:38,950 - DEBUG - Setting up initial book and chapter
+2025-08-03 22:27:38,950 - DEBUG - Updating chapter combo
+2025-08-03 22:27:38,952 - DEBUG - Loading chapter
+2025-08-03 22:27:38,952 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/1/
+2025-08-03 22:27:38,956 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 22:27:40,475 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/1/ HTTP/1.1" 200 5301
+2025-08-03 22:28:04,444 - DEBUG - Navigating chapter
+2025-08-03 22:28:04,445 - DEBUG - Loading chapter
+2025-08-03 22:28:04,445 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/2/
+2025-08-03 22:28:04,447 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 22:28:05,921 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/2/ HTTP/1.1" 200 4050
+2025-08-03 22:28:05,950 - DEBUG - Loading chapter
+2025-08-03 22:28:05,951 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/2/
+2025-08-03 22:28:05,952 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-03 22:28:07,385 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/2/ HTTP/1.1" 200 4050
+2025-08-03 22:39:10,860 - DEBUG - Loaded JSON file
+2025-08-03 22:39:10,860 - DEBUG - Created default sermon with new Fernet key
+2025-08-03 22:39:10,861 - DEBUG - Loaded sermon from JSON
+2025-08-03 22:39:13,446 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:39:13,488 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-03 22:39:13,488 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-03 22:39:13,491 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-03 22:39:24,588 - DEBUG - Appended message for User with length 40 and color #00bfff
+2025-08-03 22:39:24,589 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-03 22:39:29,860 - DEBUG - Appended message for Gemini with length 3398 and color #98FB98
+2025-08-04 13:06:43,595 - DEBUG - Loaded JSON file
+2025-08-04 13:06:43,595 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:06:43,595 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:07:26,808 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:07:26,849 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 13:07:26,850 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:07:26,853 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 13:07:35,969 - DEBUG - Appended message for User with length 41 and color #00bfff
+2025-08-04 13:07:35,970 - DEBUG - Initializing Gemini with model: gemini-1.5-flash
+2025-08-04 13:07:40,328 - DEBUG - Appended message for Gemini with length 2719 and color #98FB98
+2025-08-04 13:09:15,446 - DEBUG - Opening BibleReadDialog
+2025-08-04 13:09:15,454 - DEBUG - Setting up initial book and chapter
+2025-08-04 13:09:15,454 - DEBUG - Updating chapter combo
+2025-08-04 13:09:15,455 - DEBUG - Loading chapter
+2025-08-04 13:09:15,456 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/1/
+2025-08-04 13:09:15,460 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-04 13:09:17,010 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/1/ HTTP/1.1" 200 5301
+2025-08-04 13:09:20,515 - DEBUG - Loaded 1 Gemini API keys from DB
+2025-08-04 13:09:20,518 - DEBUG - Initialized gemini_api_keys table in DB
+2025-08-04 13:09:31,484 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:31,486 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:31,486 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:31,487 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:33,035 - DEBUG - Displaying help topic: gemini
+2025-08-04 13:09:33,040 - DEBUG - Displayed help content for gemini
+2025-08-04 13:09:33,604 - DEBUG - Displaying help topic: support
+2025-08-04 13:09:33,614 - DEBUG - Displayed help content for support
+2025-08-04 13:09:34,250 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:34,259 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:37,616 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:37,617 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:37,617 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:37,618 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:39,436 - DEBUG - Displaying help topic: operate
+2025-08-04 13:09:39,444 - DEBUG - Displayed help content for operate
+2025-08-04 13:09:39,844 - DEBUG - Displaying help topic: gemini
+2025-08-04 13:09:39,848 - DEBUG - Displayed help content for gemini
+2025-08-04 13:09:40,395 - DEBUG - Displaying help topic: support
+2025-08-04 13:09:40,403 - DEBUG - Displayed help content for support
+2025-08-04 13:10:32,546 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 13:10:32,546 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:10:32,548 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 13:11:32,438 - DEBUG - Loaded JSON file
+2025-08-04 13:11:32,438 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:11:32,438 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:16:32,496 - DEBUG - Loaded JSON file
+2025-08-04 13:16:32,497 - DEBUG - Saved JSON file
+2025-08-04 13:16:32,498 - DEBUG - Sermon saved to JSON
+2025-08-04 13:17:25,781 - DEBUG - Loaded JSON file
+2025-08-04 13:17:25,781 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:17:25,781 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:20:02,087 - DEBUG - Loaded JSON file
+2025-08-04 13:20:02,088 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:20:02,088 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:32:00,649 - DEBUG - Loaded JSON file
+2025-08-04 13:32:00,649 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:32:00,650 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:32:03,512 - ERROR - Error handling mouse press in verses list: type object 'Qt' has no attribute 'LeftButton'
+2025-08-04 13:35:32,957 - DEBUG - Loaded JSON file
+2025-08-04 13:35:32,958 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:35:32,958 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:35:35,090 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 13:35:35,090 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:35:35,093 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 13:35:37,424 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 13:35:38,052 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 13:35:38,052 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:35:38,054 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 13:40:07,840 - DEBUG - Loaded JSON file
+2025-08-04 13:40:07,841 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 13:40:07,841 - DEBUG - Loaded sermon from JSON
+2025-08-04 13:40:10,068 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 13:40:10,068 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 13:40:10,071 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 13:40:17,418 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 13:40:21,587 - DEBUG - Mouse press in verses list: Edit dialog opened
+2025-08-04 13:40:24,586 - DEBUG - Mouse press in verses list: Edit dialog opened
+2025-08-04 14:10:55,924 - DEBUG - Loaded JSON file
+2025-08-04 14:10:55,924 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 14:10:55,925 - DEBUG - Loaded sermon from JSON
+2025-08-04 14:10:55,986 - DEBUG - Updated verses list
+2025-08-04 14:10:58,169 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:10:58,169 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:10:58,172 - ERROR - Error initializing API keys: 'SermonNotesDialog' object has no attribute 'switch_key'
+2025-08-04 14:10:58,173 - DEBUG - Appended research for Error with length 87 and color #ff4040
+2025-08-04 14:11:05,309 - DEBUG - Updated verses list
+2025-08-04 14:11:05,313 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:24:19,289 - DEBUG - Loaded JSON file
+2025-08-04 14:24:19,290 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 14:24:19,290 - DEBUG - Loaded sermon from JSON
+2025-08-04 14:24:19,338 - DEBUG - Updated verses list
+2025-08-04 14:24:21,355 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:24:21,356 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:24:21,359 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:24:26,430 - DEBUG - Updated verses list
+2025-08-04 14:24:26,430 - DEBUG - Note added or edited successfully
+2025-08-04 14:24:27,948 - DEBUG - Updated verses list
+2025-08-04 14:24:27,950 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:24:28,836 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:24:28,836 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:24:28,838 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:24:30,899 - DEBUG - Mouse press in verses list: Edit dialog opened
+2025-08-04 14:24:32,239 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:24:32,240 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:24:32,241 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:24:33,632 - DEBUG - Updated verses list
+2025-08-04 14:24:34,110 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:24:34,110 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:24:34,112 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:24:37,746 - DEBUG - Updated verses list
+2025-08-04 14:24:37,748 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:24:39,256 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:24:39,256 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:24:39,258 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:24:40,689 - DEBUG - Mouse press in verses list: Edit dialog opened
+2025-08-04 14:27:37,571 - DEBUG - Loaded JSON file
+2025-08-04 14:27:37,572 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 14:27:37,572 - DEBUG - Loaded sermon from JSON
+2025-08-04 14:27:37,631 - DEBUG - Updated verses list
+2025-08-04 14:27:40,048 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:27:40,049 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:27:40,051 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:27:46,033 - DEBUG - Updated verses list
+2025-08-04 14:27:46,033 - DEBUG - Note added or edited successfully
+2025-08-04 14:27:48,045 - DEBUG - Updated verses list
+2025-08-04 14:27:48,047 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:27:55,577 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:27:55,577 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:27:55,580 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:28:05,777 - DEBUG - Updated verses list
+2025-08-04 14:28:05,777 - DEBUG - Note added or edited successfully
+2025-08-04 14:28:05,782 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:32:37,649 - DEBUG - Loaded JSON file
+2025-08-04 14:32:37,650 - DEBUG - Saved JSON file
+2025-08-04 14:32:37,650 - DEBUG - Sermon saved to JSON
+2025-08-04 14:35:22,714 - DEBUG - Loaded JSON file
+2025-08-04 14:35:22,715 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 14:35:22,715 - DEBUG - Loaded sermon from JSON
+2025-08-04 14:35:22,765 - DEBUG - Updated verses list
+2025-08-04 14:35:32,129 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:35:32,129 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:35:32,132 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:35:45,569 - DEBUG - Updated verses list
+2025-08-04 14:35:45,569 - DEBUG - Note added or edited successfully
+2025-08-04 14:35:45,574 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:35:48,629 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:35:48,629 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:35:48,631 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:35:51,028 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:36:07,192 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:36:07,193 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:36:07,196 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:36:10,937 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:36:12,804 - DEBUG - Updated verses list
+2025-08-04 14:36:15,789 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:36:15,790 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:36:15,791 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:36:24,044 - DEBUG - Updated verses list
+2025-08-04 14:36:24,044 - DEBUG - Note added or edited successfully
+2025-08-04 14:36:25,683 - DEBUG - Updated verses list
+2025-08-04 14:36:28,285 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:36:28,286 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:36:28,287 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:36:42,825 - DEBUG - Updated verses list
+2025-08-04 14:36:51,848 - DEBUG - Initialized search_history table in DB
+2025-08-04 14:40:22,763 - DEBUG - Loaded JSON file
+2025-08-04 14:40:22,765 - DEBUG - Saved JSON file
+2025-08-04 14:40:22,765 - DEBUG - Sermon saved to JSON
+2025-08-04 14:43:25,091 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:43:25,091 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:43:25,093 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:43:26,848 - DEBUG - Updated verses list
+2025-08-04 14:43:26,850 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:45:26,529 - DEBUG - Loaded JSON file
+2025-08-04 14:45:26,530 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 14:45:26,530 - DEBUG - Loaded sermon from JSON
+2025-08-04 14:45:26,582 - DEBUG - Updated verses list
+2025-08-04 14:45:30,302 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:45:30,302 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:45:30,306 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:45:34,028 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:45:34,914 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:45:34,914 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:45:34,916 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:45:36,502 - DEBUG - Updated verses list
+2025-08-04 14:45:36,504 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 14:45:39,789 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 14:45:39,789 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 14:45:39,791 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 14:45:41,165 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 14:50:26,583 - DEBUG - Loaded JSON file
+2025-08-04 14:50:26,586 - DEBUG - Saved JSON file
+2025-08-04 14:50:26,586 - DEBUG - Sermon saved to JSON
+2025-08-04 14:55:26,596 - DEBUG - Loaded JSON file
+2025-08-04 14:55:26,599 - DEBUG - Saved JSON file
+2025-08-04 14:55:26,600 - DEBUG - Sermon saved to JSON
+2025-08-04 15:00:26,601 - DEBUG - Loaded JSON file
+2025-08-04 15:00:26,602 - DEBUG - Saved JSON file
+2025-08-04 15:00:26,602 - DEBUG - Sermon saved to JSON
+2025-08-04 15:05:26,609 - DEBUG - Loaded JSON file
+2025-08-04 15:05:26,611 - DEBUG - Saved JSON file
+2025-08-04 15:05:26,611 - DEBUG - Sermon saved to JSON
+2025-08-04 15:10:26,599 - DEBUG - Loaded JSON file
+2025-08-04 15:10:26,601 - DEBUG - Saved JSON file
+2025-08-04 15:10:26,601 - DEBUG - Sermon saved to JSON
+2025-08-04 15:15:26,607 - DEBUG - Loaded JSON file
+2025-08-04 15:15:26,608 - DEBUG - Saved JSON file
+2025-08-04 15:15:26,609 - DEBUG - Sermon saved to JSON
+2025-08-04 15:20:26,601 - DEBUG - Loaded JSON file
+2025-08-04 15:20:26,603 - DEBUG - Saved JSON file
+2025-08-04 15:20:26,603 - DEBUG - Sermon saved to JSON
+2025-08-04 15:25:26,623 - DEBUG - Loaded JSON file
+2025-08-04 15:25:26,624 - DEBUG - Saved JSON file
+2025-08-04 15:25:26,624 - DEBUG - Sermon saved to JSON
+2025-08-04 15:30:26,616 - DEBUG - Loaded JSON file
+2025-08-04 15:30:26,619 - DEBUG - Saved JSON file
+2025-08-04 15:30:26,620 - DEBUG - Sermon saved to JSON
+2025-08-04 15:35:26,619 - DEBUG - Loaded JSON file
+2025-08-04 15:35:26,622 - DEBUG - Saved JSON file
+2025-08-04 15:35:26,622 - DEBUG - Sermon saved to JSON
+2025-08-04 15:40:26,624 - DEBUG - Loaded JSON file
+2025-08-04 15:40:26,627 - DEBUG - Saved JSON file
+2025-08-04 15:40:26,627 - DEBUG - Sermon saved to JSON
+2025-08-04 15:45:26,620 - DEBUG - Loaded JSON file
+2025-08-04 15:45:26,622 - DEBUG - Saved JSON file
+2025-08-04 15:45:26,623 - DEBUG - Sermon saved to JSON
+2025-08-04 16:47:20,513 - DEBUG - Loaded JSON file
+2025-08-04 16:47:20,514 - DEBUG - Saved JSON file
+2025-08-04 16:47:20,514 - DEBUG - Sermon saved to JSON
+2025-08-04 16:52:20,489 - DEBUG - Loaded JSON file
+2025-08-04 16:52:20,491 - DEBUG - Saved JSON file
+2025-08-04 16:52:20,491 - DEBUG - Sermon saved to JSON
+2025-08-04 16:57:20,494 - DEBUG - Loaded JSON file
+2025-08-04 16:57:20,494 - DEBUG - Saved JSON file
+2025-08-04 16:57:20,494 - DEBUG - Sermon saved to JSON
+2025-08-04 17:02:20,500 - DEBUG - Loaded JSON file
+2025-08-04 17:02:20,500 - DEBUG - Saved JSON file
+2025-08-04 17:02:20,500 - DEBUG - Sermon saved to JSON
+2025-08-04 17:07:20,512 - DEBUG - Loaded JSON file
+2025-08-04 17:07:20,514 - DEBUG - Saved JSON file
+2025-08-04 17:07:20,516 - DEBUG - Sermon saved to JSON
+2025-08-04 17:12:20,517 - DEBUG - Loaded JSON file
+2025-08-04 17:12:20,517 - DEBUG - Saved JSON file
+2025-08-04 17:12:20,517 - DEBUG - Sermon saved to JSON
+2025-08-04 17:17:20,520 - DEBUG - Loaded JSON file
+2025-08-04 17:17:20,522 - DEBUG - Saved JSON file
+2025-08-04 17:17:20,524 - DEBUG - Sermon saved to JSON
+2025-08-04 17:19:49,227 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:19:49,227 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:19:49,230 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:19:50,865 - DEBUG - Double-click in verses list: Edit dialog opened
+2025-08-04 17:26:33,899 - DEBUG - Loaded JSON file
+2025-08-04 17:26:33,899 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:26:33,899 - DEBUG - Loaded sermon from JSON
+2025-08-04 17:26:33,967 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:26:51,472 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:26:51,472 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:26:51,477 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:26:53,833 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:26:53,835 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 17:26:55,168 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:26:55,168 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:26:55,170 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:27:04,559 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:27:04,559 - DEBUG - Note added or edited successfully
+2025-08-04 17:27:05,919 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:27:08,285 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:27:08,285 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:27:08,289 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:27:15,304 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:27:15,304 - DEBUG - Note added or edited successfully
+2025-08-04 17:27:17,058 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:27:17,060 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 17:37:12,507 - DEBUG - Loaded JSON file
+2025-08-04 17:37:12,508 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:37:12,508 - DEBUG - Loaded sermon from JSON
+2025-08-04 17:40:19,377 - DEBUG - Loaded JSON file
+2025-08-04 17:40:19,377 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:40:19,378 - DEBUG - Loaded sermon from JSON
+2025-08-04 17:44:30,553 - DEBUG - Loaded JSON file
+2025-08-04 17:44:30,553 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:44:30,553 - DEBUG - Loaded sermon from JSON
+2025-08-04 17:44:30,607 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:44:37,970 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:44:37,970 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:44:37,973 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:44:39,858 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:44:39,860 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 17:44:41,836 - DEBUG - Updated verses list, sorted by time
+2025-08-04 17:44:41,836 - DEBUG - Toggled sort mode to: time
+2025-08-04 17:44:42,963 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:44:42,963 - DEBUG - Toggled sort mode to: ref
+2025-08-04 17:44:45,351 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 17:44:45,351 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 17:44:45,353 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 17:44:46,792 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:44:46,794 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 17:52:01,344 - DEBUG - Loaded JSON file
+2025-08-04 17:52:01,345 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:52:01,345 - DEBUG - Loaded sermon from JSON
+2025-08-04 17:52:01,398 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 17:55:35,106 - DEBUG - Loaded JSON file
+2025-08-04 17:55:35,106 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 17:55:35,107 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:08:48,082 - DEBUG - Loaded JSON file
+2025-08-04 18:08:48,082 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 18:08:48,083 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:11:45,005 - DEBUG - Loaded JSON file
+2025-08-04 18:11:45,005 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 18:11:45,005 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:12:39,440 - DEBUG - Loaded JSON file
+2025-08-04 18:12:39,440 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 18:12:39,441 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:15:39,319 - DEBUG - Loaded JSON file
+2025-08-04 18:15:39,319 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 18:15:39,319 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:15:39,379 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 18:15:53,755 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 18:15:53,755 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 18:15:53,757 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 18:15:55,675 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 18:16:01,735 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 18:16:01,735 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 18:16:01,737 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 18:16:14,112 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 18:16:14,112 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 18:16:14,114 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 18:16:15,959 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 18:16:15,961 - DEBUG - Mouse press in verses list: Add dialog opened
+2025-08-04 18:16:18,158 - DEBUG - Updated verses list, sorted by time
+2025-08-04 18:16:18,158 - DEBUG - Toggled sort mode to: time
+2025-08-04 18:16:18,982 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 18:16:18,982 - DEBUG - Toggled sort mode to: ref
+2025-08-04 18:16:27,049 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 18:16:27,057 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 18:16:27,057 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 18:16:27,059 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 18:19:05,997 - DEBUG - Loaded JSON file
+2025-08-04 18:19:05,997 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 18:19:05,998 - DEBUG - Loaded sermon from JSON
+2025-08-04 18:19:06,048 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 19:05:46,740 - WARNING - Icon file not found: icon.png
+2025-08-04 19:05:46,742 - DEBUG - Loaded JSON file
+2025-08-04 19:05:46,742 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 19:05:46,742 - DEBUG - Loaded sermon from JSON
+2025-08-04 19:05:46,796 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 19:06:35,287 - DEBUG - Set window icon to icon.png
+2025-08-04 19:06:35,287 - DEBUG - Loaded JSON file
+2025-08-04 19:06:35,288 - DEBUG - Created default sermon with new Fernet key
+2025-08-04 19:06:35,288 - DEBUG - Loaded sermon from JSON
+2025-08-04 19:06:35,330 - DEBUG - Updated verses list, sorted by ref
+2025-08-04 19:06:42,705 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 19:06:42,746 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 19:06:42,747 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 19:06:42,750 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 19:06:47,071 - DEBUG - Opening BibleReadDialog
+2025-08-04 19:06:47,077 - DEBUG - Setting up initial book and chapter
+2025-08-04 19:06:47,077 - DEBUG - Updating chapter combo
+2025-08-04 19:06:47,077 - DEBUG - Loading chapter
+2025-08-04 19:06:47,082 - DEBUG - Requesting URL: https://bolls.life/get-text/WEB/1/1/
+2025-08-04 19:06:47,083 - DEBUG - Starting new HTTPS connection (1): bolls.life:443
+2025-08-04 19:06:48,552 - DEBUG - https://bolls.life:443 "GET /get-text/WEB/1/1/ HTTP/1.1" 200 5301
+2025-08-04 19:06:54,003 - DEBUG - Initialized search_history table in DB
+2025-08-04 19:06:57,606 - DEBUG - Successfully loaded 1 API keys from gemini_api_keys table
+2025-08-04 19:06:57,606 - DEBUG - Loaded 1 API keys from sermon_secrets.db
+2025-08-04 19:06:57,608 - DEBUG - Using Gemini model: gemini-1.5-flash
+2025-08-04 19:06:59,192 - DEBUG - Updated verses list, sorted by ref
